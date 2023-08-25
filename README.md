@@ -1,7 +1,7 @@
 ﻿# 🤘 Olá! Sou o Augusto
 
 - 🚀 &nbsp; Atualmente procurando por uma nova experiência profissional!
-- 🌳 &nbsp; No momento estou aprofundando meus conhecimentos em React e TypeScript.
+- 🌳 &nbsp; No momento estou aprofundando meus conhecimentos em Angular.
 - 🎓 &nbsp; FIAP - Sistemas para Internet | ITB - Informática para Internet | Cursos online.
 - ☎️ &nbsp; [LinkedIn](https://www.linkedin.com/in/augusto-seabra-455b9b148/).
 
@@ -12,6 +12,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular]([https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white))
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
