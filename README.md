@@ -1,7 +1,7 @@
 ﻿# 🤘 Hi! I'm Augusto
 
-- 🚀 &nbsp; Searching for a new professional experience!
-- 🌳 &nbsp; Currently deepening my knowledge in Angular.
+- 🚀 &nbsp; Working as web developer in Konecta Brazil!
+- 🌳 &nbsp; Currently deepening my knowledge in C++/Arduino.
 - 🎓 &nbsp; FIAP - Internet Systems | ITB - Internet computing | Online courses.
 - ☎️ &nbsp; [LinkedIn](https://www.linkedin.com/in/augusto-seabra-455b9b148/).
 
